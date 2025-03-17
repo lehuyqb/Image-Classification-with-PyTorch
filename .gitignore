@@ -6,3 +6,13 @@ __pycache__
 *.pyw
 *.pyz
 .ipynb_checkpoints
+checkpoints/
+logs/
+data/
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+node_modules/
+.env
